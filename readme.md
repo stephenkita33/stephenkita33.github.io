@@ -1,3 +1,7 @@
+# Personal Website
+
+Hosted for free on GitHub Pages via [stephenkita33.github.io](https://stephenkita33.github.io)
+
 ## Usage
 
 * This template uses tailwind css every tailwind class are prefixed with `tw-`, to help differentiate
